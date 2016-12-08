@@ -1,0 +1,21 @@
+team,curpos,maxpos,minpos
+Chelsea,1,4,1
+Liverpool,2,4,1
+Manchester City,3,4,1
+Arsenal,4,4,2
+Tottenham Hotspur,5,5,5
+Manchester United,6,9,6
+Everton,7,10,6
+Watford,8,12,6
+West Bromwich Albion,9,12,7
+Southampton,10,12,7
+Stoke City,11,14,7
+Bournemouth,12,16,9
+Burnley,13,17,9
+Leicester City,14,17,12
+Middlesbrough,15,19,12
+West Ham United,16,19,12
+Crystal Palace,17,20,13
+Hull City,18,20,13
+Swansea City,19,20,16
+Sunderland,20,20,17
